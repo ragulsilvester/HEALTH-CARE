@@ -37,16 +37,3 @@ CD “folder name”
 javac HospitalManagement.java
 
 Now, run the java source code then it will start the Hospital and Health Care Management System Project in Java on your computer.
-
-You can download my Hospital and Health Care Management System Project from the following link:
-
-https://github.com/sehresh92/Hospital-and-Health-Care-Management-System-Project-in-Java
-
-you can download and check my Hospital and Health Care Management System java source code from the following link:
-
-https://github.com/sehresh92/Hospital-and-Health-Care-Management-System-Project-in-Java/tree/main/Hospital%20Management%20Project
-
-This is my complete Hospital and Health Care Management System Project in Java with source code and pictures.This project is very interesting.
-So, Now you can download it, run it on your computer and you can able to modify it.
-
-Thank you for watching my Hospital and Health Care Management System Project in Java :-)
